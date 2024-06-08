@@ -1,0 +1,86 @@
+{
+  "items": {
+    "consumables": [
+      {
+        "name": "Health potion",
+        "recovered_hp": 10
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Leather armor",
+        "defense": 5
+      },
+      {
+        "name": "Beeg sord",
+        "attack": 666
+      },
+      {
+        "name": "Shield",
+        "defense": 2
+      }
+    ],
+    "content": [
+      {
+        "name": "Gold coin",
+        "max_stack": 9999
+      }
+    ]
+  },
+  "enemies": [
+    {
+      "ID": "ENEMY_0",
+      "name": "Bandit"
+    },
+    {
+      "ID": "ENEMY_1",
+      "name": "Cultist"
+    },
+    {
+      "ID": "ENEMY_2",
+      "name": "Dragon"
+    }
+  ],
+  "content": [
+    {
+      "id": "0",
+      "type": "MyNamespace.TestClass",
+      "name": "TEST"
+    },
+    {
+      "id": "1",
+      "type": "MyNamespace.TestClass",
+      "name": "TEST-ING"
+    },
+    {
+      "id": "2",
+      "type": "MyNamespace.TestClass",
+      "name": "TEST-AMENT"
+    },
+    {
+      "id": "3",
+      "type": "MyNamespace.TestClass",
+      "name": "TEST-IMONY"
+    },
+    {
+      "id": "4",
+      "type": "MyNamespace.TestClass",
+      "name": "TEST-IFY"
+    },
+    {
+      "id": "5",
+      "type": "MyNamespace.TestClass",
+      "name": "TEST-ICLE"
+    },
+    {
+      "id": "6",
+      "type": "MyNamespace.TestClass",
+      "name": "TEST-OSTERONE"
+    },
+    {
+      "id": "7",
+      "type": "MyNamespace.TestClass",
+      "name": "TEST-ACEAN"
+    }
+  ]
+}

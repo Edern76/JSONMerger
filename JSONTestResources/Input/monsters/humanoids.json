@@ -1,0 +1,10 @@
+[
+	{
+		"ID": "ENEMY_0",
+		"name": "Bandit",
+	},
+	{
+		"ID": "ENEMY_1",
+		"name": "Cultist",
+	}
+]

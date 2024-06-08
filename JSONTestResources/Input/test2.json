@@ -1,0 +1,12 @@
+[
+	{
+		"id": "3",
+		"type": "MyNamespace.TestClass",
+		"name": "TEST-IMONY"
+	},
+	{
+		"id": "4",
+		"type": "MyNamespace.TestClass",
+		"name": "TEST-IFY"
+	}
+]
