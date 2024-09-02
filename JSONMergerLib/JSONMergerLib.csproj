@@ -4,10 +4,20 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>JSONMergerLib</Title>
+        <Description>A JSON merging utility that merges multiple JSON files into one.</Description>
+        <Copyright>Copyright (c) 2024 Gawein LE GOFF</Copyright>
+        <PackageProjectUrl>https://github.com/Edern76/JSONMerger</PackageProjectUrl>
+        <PackageLicenseFile>LICENSE</PackageLicenseFile>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <RepositoryUrl>https://github.com/Edern76/JSONMerger.git</RepositoryUrl>
     </PropertyGroup>
 
     <ItemGroup>
       <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+        <None Include="..\README.md" Pack="true" PackagePath="\"/>
+        <NONE Include="..\LICENSE" Pack="true" PackagePath="\"/>
     </ItemGroup>
 
 </Project>
